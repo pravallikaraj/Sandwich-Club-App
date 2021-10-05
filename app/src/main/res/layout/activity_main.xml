@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.udacity.sandwichclub.MainActivity">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/sadwichLogo1_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/picture2"
+            android:paddingTop="10dp"
+            android:paddingLeft="60dp"/>
+        <TextView
+            android:id="@+id/menu_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Menu"
+            android:textSize="35dp"
+            android:paddingTop="5dp"
+            android:paddingLeft="130dp"
+            android:fontFamily="cursive"
+            android:textColor="#AE1438"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:id="@+id/sadwichLogo2_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/menu_tv"
+            android:paddingTop="10dp"
+            android:paddingRight="50dp"
+            android:src="@drawable/picture1" />
+
+    </RelativeLayout>
+    <ListView
+        android:background="#FAC42F"
+        android:layout_marginTop="60dp"
+        android:id="@+id/sandwiches_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</RelativeLayout>
