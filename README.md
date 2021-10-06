@@ -7,4 +7,4 @@ The dummy JSON data is stored in the strings.xml file. JSON parsing has implemen
 
 # Sandwich App Homescreen
 
-![](sandwich_app_IMG1.png)
+![](sandwich_app_IMG1.png = 250x250)
