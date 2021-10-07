@@ -9,8 +9,8 @@ The dummy JSON data is stored in the strings.xml file. JSON parsing has implemen
 
 <table>
   <tr>
-    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG1.png" width=300 height=580></td>
-    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG2.png" width=300 height=580></td>
-    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG3.png" width=300 height=580></td>
+    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG1.png" width=320 height=580></td>
+    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG2.png" width=320 height=580></td>
+    <td><img src="Screenshot_sandwich_app/sandwich_app_IMG3.png" width=320 height=580></td>
   </tr>
 <table>
