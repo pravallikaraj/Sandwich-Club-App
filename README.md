@@ -9,3 +9,9 @@ The dummy JSON data is stored in the strings.xml file. JSON parsing has implemen
 
 <img src="https://github.com/pravallikaraj/Sandwich-Club-App/blob/master/sandwich_app_IMG1.png" width="200" height="400" />
 
+
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
